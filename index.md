@@ -1,5 +1,5 @@
-# RGB LED
-The project consists of an RGB LED, board, and three switches each corresponding to RGB (red, green, blue) values. Sliding the swtches up and down controls the intensity of each color on the LED, which allows the LED to display a gradient of colors. 
+# Smart Mirror
+//description here
 
 | **Engineer** | **Mountain View High School** | **Electrical Engineering** | **Senior** |
 |:--:|:--:|:--:|:--:|
@@ -7,9 +7,6 @@ The project consists of an RGB LED, board, and three switches each corresponding
 
 **Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
 
-
-# Starter Project
-![Headstone Image](rgbproject.jpg)
   
 # Final Milestone
 For your final milestone, explain the outcome of your project. Key details to include are:
@@ -83,3 +80,8 @@ One of the best parts about Github is that you can view how other people set up 
 - [Example 3](https://arneshkumar.github.io/arneshbluestamp/)
 
 To watch the BSE tutorial on how to create a portfolio, click here.
+
+# Starter Project
+![Headstone Image](rgbproject.jpg)
+
+The project consists of an RGB LED, board, and three switches each corresponding to RGB (red, green, blue) values. Sliding the swtches up and down controls the intensity of each color on the LED, which allows the LED to display a gradient of colors. 
