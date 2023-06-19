@@ -28,15 +28,16 @@ Here's where you'll put images of your schematics. [Tinkercad](https://www.tinke
 
 My plan for the future is the create a wooden frame for the mirror and then completely customize it using 3rd party modules
 
-# Code
-
-# Bill of Materials
-
-# Other Resources/Examples
-
 # Starter Project
  <img src="rgbproject.jpg" width="450" height="300">
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XVKCBS4upeY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 The project consists of an RGB LED, board, and three switches each corresponding to RGB (red, green, blue) values. Sliding the swtches up and down controls the intensity of each color on the LED, which allows the LED to display a gradient of colors. The three switches and LED shown are soldered on the back, and the longest pin of the LED is slotted into the hole with a - sign indicated. I ran into trouble soldering the LED because I didn't push the LED flush with the board before soldering, so it was stuck in a raised position. However, I learned that didn't matter because current could still flow to the LED.
+
+
+# Code
+
+# Bill of Materials
+
+# Other Resources/Examples
