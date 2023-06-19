@@ -18,9 +18,9 @@ I'm currently building the smart mirror, which is a mirror that can display real
 ### Process
 1. Flash the Pi imager onto an SD card using Raspberry Pi's imager software
 2. Insert it into the Raspberry Pi 400 keyboard and connected the keyboard to the monitor and a powersource
---> I used USB C as a powersource for the keyboard and a micro-HDMI to HDMI cable to connect the keyboard to the monitor 
-3. Download Node.js using the instructions found on the [Magic Mirror website](docs.magicmirror.builders)
-4. Run one final 'npm run start' command in the command prompt of the Raspberry Pi to yield the shown display.
+   → I used USB C as a powersource for the keyboard and a micro-HDMI to HDMI cable to connect the keyboard to the monitor 
+4. Download Node.js using the instructions found on the [Magic Mirror website](docs.magicmirror.builders)
+5. Run one final 'npm run start' command in the command prompt of the Raspberry Pi to yield the shown display.
 
 ### Challenges
 The biggest challenge I faced was actually hooking the Pi up to the monitor. The first Pi I used was faulty and kept getting hot when I plugged it in. I found another Pi, but when I hooked it up to the monitor, the monitor didn't detect an input and fell asleep. I realized this was because the Pi wasn't reading the SD card, for whatever reason, but after testing several Pis, the keyboard finally worked. 
