@@ -3,7 +3,7 @@
 The smart mirror is a customizable mirror run off the Raspberry Pi OS. Using Node.js, the mirror displays different modules that display different types of information, such as the weather or recent news updates. The modules are completely customizable and can be coded to display databases from Notion or Google sheets, for example.
 
 
-| **Engineer** | **Mountain View High School** | **Electrical Engineering** | **Senior** |
+| **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
 | Alex W | Mountain View High School | Electrical Engineering | Incoming Senior
 
