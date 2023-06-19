@@ -1,5 +1,7 @@
 # Smart Mirror
-//description here
+
+The smart mirror is a customizable mirror run off the Raspberry Pi OS. Using Node.js, the mirror displays different modules that display different types of information, such as the weather or recent news updates. The modules are completely customizable and can be coded to display databases from Notion or Google sheets, for example.
+
 
 | **Engineer** | **Mountain View High School** | **Electrical Engineering** | **Senior** |
 |:--:|:--:|:--:|:--:|
@@ -39,5 +41,13 @@ The project consists of an RGB LED, board, and three switches each corresponding
 # Code
 
 # Bill of Materials
+
+## Starter Project
+1. RGB LED
+2. Soldering board
+3. 3 switches
+
+## Smart Mirror
+
 
 # Other Resources/Examples
