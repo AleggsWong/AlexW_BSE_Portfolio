@@ -35,7 +35,7 @@ My plan for the future is the create a wooden frame for the mirror and then comp
 # Other Resources/Examples
 
 # Starter Project
- <img src="rgbproject.jpg" width="150" height="150">
+ <img src="rgbproject.jpg" width="450" height="300">
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XVKCBS4upeY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
