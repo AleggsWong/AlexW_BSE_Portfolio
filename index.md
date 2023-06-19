@@ -37,6 +37,8 @@ My plan for the future is the create a wooden frame for the mirror and then comp
 
 The project consists of an RGB LED, board, and three switches each corresponding to RGB (red, green, blue) values. Sliding the swtches up and down controls the intensity of each color on the LED, which allows the LED to display a gradient of colors. The three switches and LED shown are soldered on the back, and the longest pin of the LED is slotted into the hole with a - sign indicated. I ran into trouble soldering the LED because I didn't push the LED flush with the board before soldering, so it was stuck in a raised position. However, I learned that didn't matter because current could still flow to the LED.
 
+The RGB LED is called a common cathode LED. It has 4 pins total, with 1 longer pin. The LED is called a common cathode pin because all 3 equal length LEDs share a common negative output pin. Power flows into the LED through the 3 equal length pins - controlled by the switches - and out the longer pin, which allows a circuit to form through the LED. As electricity runs through the LED, it releases part of that energy as light. 
+
 
 # Code
 
