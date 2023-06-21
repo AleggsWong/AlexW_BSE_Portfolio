@@ -26,7 +26,7 @@ As of the first milestone, I have
 1. Flashed the Pi imager onto an SD card using [Raspberry Pi's imager software](https://www.raspberrypi.com/software/)
 2. Inserted the SD card into the Raspberry Pi 400 keyboard and connected the keyboard to the monitor and a powersource
 <br> → I used USB C as a powersource for the keyboard and a micro-HDMI to HDMI cable to connect the keyboard to the monitor 
-4. Downloaded Node.js using the terminal and the instructions found on the [Magic Mirror website](docs.magicmirror.builders)
+4. Downloaded Node.js using terminal and the instructions found on the [Magic Mirror website](docs.magicmirror.builders)
 5. Navigated to the 'Magic Mirror' directory using the command 'cd Magic Mirror'
 6. Run one final 'npm run start' command in the command prompt of the Raspberry Pi to yield the display.
 
