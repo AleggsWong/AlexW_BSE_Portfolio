@@ -33,6 +33,7 @@ As of the first milestone, I have
 ### Challenges
 The biggest challenge I faced was actually hooking the Pi up to the monitor. The first Pi I used was faulty and kept getting hot when I plugged it in. I found another Pi, but when I hooked it up to the monitor, the monitor didn't detect an input and fell asleep. I realized this was because the Pi wasn't reading the SD card, for whatever reason, but after testing several Pis, the keyboard finally worked. 
 
+### Next Steps
 My plan for the future is the create a wooden frame for the mirror and secure the monitor to the frame using nylon strips. To give the mirror a more aesthetic look, I'm going to attach LEDs to the frame around the monitor. In order to power the LEDs, I'll need to attach a power strip as well. 
 
 # Starter Project
