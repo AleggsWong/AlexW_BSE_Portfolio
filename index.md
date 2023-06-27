@@ -19,7 +19,8 @@ For this milestone, I've customized the display of the mirror. On download, the 
 3. modules folder: downloaded during Magic Mirror installation (see milestone 1); 3rd-party modules from github are downloaded here and can be called in config.js
 4. JavaScript: coding language used
 5. JSON: used to store and transport information
-6. other dependency folders: generally untouched unless debugging; almost always the same across modules
+6. custom.css: used to customize individual modules; can be used to custome position and size, along with more specific aspects such as the font, although I didn't use that feature 
+7. other dependency folders: generally untouched unless debugging; almost always the same across modules
 
 ### Progress/Customizing Display
 As of the second milestone, I have:
@@ -30,6 +31,8 @@ As of the second milestone, I have:
 <br> → github link found [here](https://github.com/Fabrizz/MMM-OnSpotify)
 4. Notion Database: displays information from a Notion database, which is highly customizable. In my case, it displays my To-Do's database by ascending date and shows the due date.
 <br> → github link found [here](https://github.com/choffmann/MMM-Notion)
+5. Edited the size and location of different modules using custom.css
+6. Customized messages in the 'compliments' module (default) by navigating to compliments.js and changing the Strings in the compliments array
 
 # First Milestone
 
