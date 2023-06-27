@@ -11,6 +11,26 @@ The smart mirror is a customizable mirror run off the Raspberry Pi OS. Using Nod
   
 # Final Milestone
 # Second Milestone
+For this milestone, I've customized the display of the mirror. On download, the mirro comes with a couple of default modules (see milestone one). I added 3 new modules: 3-day weather updates, Spotify 'now playing', and a Notion database display. The modules were created through 3rd party code [here](https://github.com/MichMich/MagicMirror/wiki/3rd-party-modules). Each one has detailed and specific instructions on the integration process. 
+
+### Components
+1. 3rd party modules found on github
+2. config.js: essentially the framework of the mirror; actually file that is run, accesses other files by calling their classes; contains the modules array where required module information is stored
+3. modules folder: downloaded during Magic Mirror installation (see milestone 1); 3rd-party modules from github are downloaded here and can be called in config.js
+4. JavaScript: coding language used
+5. JSON: used to store and transport information
+6. other dependency folders: generally untouched unless debugging; almost always the same across modules
+
+### Progress/Customizing Display
+As of the second milestone, I have:
+1. added 3 3rd-party modules
+2. 3-Day Weather Forecast: displays weather forecast for today, tomorrow, and day after
+<br> → github link found [here](https://github.com/nigel-daniels/MMM-3Day-Forecast)
+3. Spotify On-Play: displays current song playing (if any at all), along with relevant information about the song, such as the title and progress through the song
+<br> → github link found [here](https://github.com/Fabrizz/MMM-OnSpotify)
+4. Notion Database: displays information from a Notion database, which is highly customizable. In my case, it displays my To-Do's database by ascending date and shows the due date.
+<br> → github link found [here](https://github.com/choffmann/MMM-Notion)
+
 # First Milestone
 
 I'm currently building the smart mirror, which is a mirror that can display real-time and customizable information. It has several default modules, such as compliments, real-time news updates, and the time. Through Github, I'm able to add a few modules of my own or even code them once I learn how. 
