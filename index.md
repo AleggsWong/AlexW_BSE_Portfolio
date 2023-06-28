@@ -11,6 +11,8 @@ The smart mirror is a customizable mirror run off the Raspberry Pi OS. Using Nod
   
 # Final Milestone
 # Second Milestone
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vfy8MCB6NEs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 For this milestone, I've customized the display of the mirror. On download, the mirro comes with a couple of default modules (see milestone one). I added 3 new modules: 3-day weather updates, Spotify 'now playing', and a Notion database display. The modules were created through 3rd party code [here](https://github.com/MichMich/MagicMirror/wiki/3rd-party-modules). Each one has detailed and specific instructions on the integration process. 
 
 ### Components
@@ -47,9 +49,9 @@ My next step is to build the mirror itself. I have the display completely custom
 # First Milestone
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vfy8MCB6NEs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+
 I'm currently building the smart mirror, which is a mirror that can display real-time and customizable information. It has several default modules, such as compliments, real-time news updates, and the time. Through Github, I'm able to add a few modules of my own or even code them once I learn how. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vfy8MCB6NEs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Components
 1. Raspberry Pi 400 Keyboard: used as the brains of the monitor; contains the operating system, power supply, and code to run the display; also used to type on the monitor
