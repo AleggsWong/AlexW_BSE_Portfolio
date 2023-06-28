@@ -34,6 +34,13 @@ As of the second milestone, I have:
 5. Edited the size and location of different modules using custom.css
 6. Customized messages in the 'compliments' module (default) by navigating to compliments.js and changing the Strings in the compliments array
 
+### Challenges
+I ran into several challenges while I progressed to milestone 2. Each module came with its own challenges, although the Notion module gave me the most trouble. For the 3-Day Weather Forecast module, I had to use an API key from [OpenWeatherMap](https://openweathermap.org/). However, even upon copying the API key into relevant module in config.js, the module wasn't displaying an information. After some troubleshooting, I realized that I also had to copy the API key into the 'MMM-3Day-Forecast.js' file as well. 
+<br>
+For the Spotify now playing module, I had to create a Spotify App in developer mode. The app connects to the mirror display using a localhost server, but when I initially ran the display, nothing was showing up for Spotify. For some reason, the localhost server wasn't accessible. I tested by searching the IP address 127.0.0.1, along with the server's web url itself, but both tests revealed that while the server was up and running, it was inaccessible. It was only after completely deleting the Spotify App and creating a new one that the server became accessible. 
+<br> 
+As I mentioned above, the Notion module gave me the most trouble. At first, the module wouldn't even run because I had not downloaded a Notion library called @notionhq/client. However, even after downloading the library, the module refused to load and crashed the display every time I attempted to open it. The reason the module was failing was because of the filter type it was sorting by. The Notion to-do database uses a variety of different properties to filter, such as status and date. Properties are separated into two categories: Strings and objects. In the default code, the module was filtering a String property, but in my database, I was using an object filter. After researching, I found [Notion documentation](https://developers.notion.com/reference/post-database-query-filter) that explained how to filter by an object property, as well as how to filter multiple properties.  
+
 # First Milestone
 
 I'm currently building the smart mirror, which is a mirror that can display real-time and customizable information. It has several default modules, such as compliments, real-time news updates, and the time. Through Github, I'm able to add a few modules of my own or even code them once I learn how. 
