@@ -41,6 +41,9 @@ For the Spotify now playing module, I had to create a Spotify App in developer m
 <br> 
 As I mentioned above, the Notion module gave me the most trouble. At first, the module wouldn't even run because I had not downloaded a Notion library called @notionhq/client. However, even after downloading the library, the module refused to load and crashed the display every time I attempted to open it. The reason the module was failing was because of the filter type it was sorting by. The Notion to-do database uses a variety of different properties to filter, such as status and date. Properties are separated into two categories: Strings and objects. In the default code, the module was filtering a String property, but in my database, I was using an object filter. After researching, I found [Notion documentation](https://developers.notion.com/reference/post-database-query-filter) that explained how to filter by an object property, as well as how to filter multiple properties.  
 
+### Next Steps
+My next step is to build the mirror itself. I have the display completely customized, but now I need to turn the display into an actual mirror. I'll be using an 18x24 mirror frame, a 2-way mirror sheet, and plywood to hold the monitor display. I'm also going to glue LED strips on the sides of the mirror to give it more ambience and a classier look. 
+
 # First Milestone
 
 I'm currently building the smart mirror, which is a mirror that can display real-time and customizable information. It has several default modules, such as compliments, real-time news updates, and the time. Through Github, I'm able to add a few modules of my own or even code them once I learn how. 
