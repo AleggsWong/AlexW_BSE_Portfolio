@@ -11,7 +11,7 @@ The smart mirror is a customizable mirror run off the Raspberry Pi OS. Using Nod
   
 # Final Milestone
 # Second Milestone
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vfy8MCB6NEs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a3SVgaacQEY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 For this milestone, I've customized the display of the mirror. On download, the mirro comes with a couple of default modules (see milestone one). I added 3 new modules: 3-day weather updates, Spotify 'now playing', and a Notion database display. The modules were created through 3rd party code [here](https://github.com/MichMich/MagicMirror/wiki/3rd-party-modules). Each one has detailed and specific instructions on the integration process. 
 
