@@ -10,6 +10,20 @@ The smart mirror is a customizable mirror run off the Raspberry Pi OS. Using Nod
 
   
 # Final Milestone
+I am done! The mirror is mounted onto the frame that I've built and can now be mounted to a surface so that it actually functions as a mirror. The arm the mirror is attached to can swivel and the hand itself (the part that's attached to the display itself) can rotate. Now, all that's left to do is choose a spot at my house and mount it. 
+
+### Progress/Finishing the Mirror 
+To finish the mirror, I
+1. Measured and cut plywood to fit dimensions of the mirror frame I am using (18 in x 24 in); this is used to prevent the display from shifting side to side, since hte monitor is not large enough to fit securely in the actual mirror frame.
+2. I cut a second hole in the middle of the plywood just large enough to fit the monitor so that the display can sit comfortably inside
+3. Painted the plywood black so that it matches the mirror frame and absorbs any excess light
+4. Cut divots down the plywood on the front and on either side of the hole in the middle so that the divots frame the area where the mirror will sit
+5. Drilled holes into the ends of those divots (the holes were drilled on the same side of the mirror) where I could later feed wire through 
+6. Cut and glued LED strips into the divots then sautered wires to the pads of the LED to attach to a single wire so that I could power both strips with a single plug
+7. Fed the wirse through the two holes I cut earlier 
+8. Set the frame in hte mirror frame and drilled pilot holes throuhg both the frame and the plywood through the sides of the frame
+9. Used nails and drilled through the pilot holes to seure the plywood to the mirror frame 
+
 # Second Milestone
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a3SVgaacQEY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
