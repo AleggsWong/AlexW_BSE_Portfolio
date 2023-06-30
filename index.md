@@ -10,6 +10,8 @@ The smart mirror is a customizable mirror run off the Raspberry Pi OS. Using Nod
 
   
 # Final Milestone
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K_CM9QeQhP4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 I am done! The mirror is mounted onto the frame that I've built and can now be mounted to a surface so that it actually functions as a mirror. The arm the mirror is attached to can swivel and the hand itself (the part that's attached to the display itself) can rotate. Now, all that's left to do is choose a spot at my house and mount it. 
 
 ### Components
