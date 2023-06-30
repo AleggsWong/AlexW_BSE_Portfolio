@@ -7,7 +7,7 @@ The smart mirror is a customizable mirror run off the Raspberry Pi OS. Using Nod
 |:--:|:--:|:--:|:--:|
 | Alex W | Mountain View High School | Electrical Engineering | Incoming Senior
 
-
+<img src="Alex-W-Headshot.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="300" height="400" />
   
 # Final Milestone
 <iframe width="560" height="315" src="https://www.youtube.com/embed/K_CM9QeQhP4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
