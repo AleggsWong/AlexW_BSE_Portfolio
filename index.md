@@ -129,19 +129,3 @@ The LED and switches have been completely soldered to the board and can properly
 ### Challenges
 
 I ran into trouble soldering the LED because I didn't push the LED flush with the board before soldering, so it was stuck in a raised position. However, I learned that didn't matter because current could still flow to the LED.
-
-
-
-# Code
-
-# Bill of Materials
-
-## Starter Project
-1. RGB LED
-2. Soldering board
-3. 3 switches
-
-## Smart Mirror
-
-
-# Other Resources/Examples
