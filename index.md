@@ -12,6 +12,16 @@ The smart mirror is a customizable mirror run off the Raspberry Pi OS. Using Nod
 # Final Milestone
 I am done! The mirror is mounted onto the frame that I've built and can now be mounted to a surface so that it actually functions as a mirror. The arm the mirror is attached to can swivel and the hand itself (the part that's attached to the display itself) can rotate. Now, all that's left to do is choose a spot at my house and mount it. 
 
+### Components
+1. 18 in by 24 in mirror frame: holds the display and plywood
+2. Plywood: prevents the display from shifting side to side
+3. Monitor: displays the modules
+4. Raspberry Pi 400: computer the display runs off of 
+5. LED Strips: light up the mirror and look good
+6. 18 in by 24 in 2-way mirror: mirror
+7. Nylon webbing: secures the display; prevents it from moving back and forth
+8. Grommets + Eyelet tool: used to help drill nails through the nylon webbing 
+
 ### Progress/Finishing the Mirror 
 To finish the mirror, I
 1. Measured and cut plywood to fit dimensions of the mirror frame I am using (18 in x 24 in); this is used to prevent the display from shifting side to side, since hte monitor is not large enough to fit securely in the actual mirror frame.
@@ -20,9 +30,20 @@ To finish the mirror, I
 4. Cut divots down the plywood on the front and on either side of the hole in the middle so that the divots frame the area where the mirror will sit
 5. Drilled holes into the ends of those divots (the holes were drilled on the same side of the mirror) where I could later feed wire through 
 6. Cut and glued LED strips into the divots then sautered wires to the pads of the LED to attach to a single wire so that I could power both strips with a single plug
-7. Fed the wirse through the two holes I cut earlier 
+7. Fed the wires through the two holes I cut earlier 
 8. Set the frame in hte mirror frame and drilled pilot holes throuhg both the frame and the plywood through the sides of the frame
-9. Used nails and drilled through the pilot holes to seure the plywood to the mirror frame 
+9. Used nails and drilled through the pilot holes to seure the plywood to the mirror frame
+10. Attached a wall mount plate to the back of the monitor display and fed nylon webbing through extra holes in it
+11. Secured the nylon strips to the plywood by punching grommets into the webbing using an eyelet tool and drilling nails through the grommets
+12. Attached the mounting arm to the mounting plate
+13. Hooked a power strip up to the back of the display by drilling two nails into the plywood and inserting the nails into the holes on the back of the strip
+14. Plug in all the wires
+
+### Challenges
+I ran into several challenges as I completed the mirror. The worst one was when I was securing the plywood to the mirror frame by drilling nails into the sides, I accidentally drilled too low, so I ended up cracking and warping the mirror. There isn't much I can do about that, so I'll have to order another mirror and re-install it. Another major challenge I ran into was when I was putting the display back into the plywood frame, the wood had warped, so the display no longer fit. I spent a significant amount of time filing the wood down to size so that the display fit. 
+
+### Next Steps
+Not much else to do other than mount it on my wall and use it!
 
 # Second Milestone
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a3SVgaacQEY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
